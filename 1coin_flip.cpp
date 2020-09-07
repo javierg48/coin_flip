@@ -28,8 +28,6 @@ int flip(){
         }
     }
     return number;
-    return headsCount;
-    return tailsCount;
 }
 
 
