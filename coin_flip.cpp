@@ -1,7 +1,7 @@
 // author: Javier Garcia Ramirez
 // create date: Saturday, January 11th, 2020
 // last modified: Sunday, January 12th, 2020
-// filename: 1coin_flip.cpp
+// filename: coin_flip.cpp
 // description: flips a coin x times
 // runtime: n/a
 
