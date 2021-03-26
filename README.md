@@ -11,7 +11,7 @@ Updated on: March 25, 2021
 
 ## GAMEPLAY
 ### 16 Coin Flips
-![16 Coin Flips](./images/16_flip.png "16 Coin Flips")
+![16 Coin Flips](./images/16_flips.png "16 Coin Flips")
 ### 1 Coin Flip
 ![1 Coin Flip](./images/one_flip.png "1 Coin Flip")
 
